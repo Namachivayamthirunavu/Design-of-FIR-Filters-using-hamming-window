@@ -1,5 +1,8 @@
 ### Design-of-FIR-Filters-using-hamming-window
 ### DESIGN OF LOW PASS FIR DIGITAL FILTER 
+Name: Namachivayam T
+
+Reg No: 212223060179
 
 ### AIM:       
   To generate design of high pass FIR digital filter using SCILAB 
